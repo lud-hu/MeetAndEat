@@ -26,4 +26,4 @@ The next steps would be to make a good visual design for our prototype and to be
 
 ## Prototype
 
-To see the last version of our prototype you can either use this weblink (Link) or open it in Axure.
+To see the last version of our prototype you can either use [the weblink](https://m8z052.axshare.com/#g=1&p=startmitwochenplan) or open the file (prototype/meet-and-eat-v3/meet-and-eat-v3.rpprj) in Axure.
