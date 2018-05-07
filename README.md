@@ -1,6 +1,8 @@
 # Meet-and-Eat
 An iteratively evaluated prototype to enhance meal planning for familys.
 
+Summary Video: https://www.youtube.com/watch?v=1YzxBQvZrMI
+
 ## Method
 Meal planning for familys often takes a lot of effort and time. Because of that we developed an interactive prototype with the method Contextual Design (by Karen Holtzblatt), that makes the meal planning more efficient and effective.
 
