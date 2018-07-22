@@ -1,5 +1,5 @@
 # Meet-and-Eat
-An iteratively evaluated prototype to enhance meal planning for familys.
+An iteratively evaluated prototype to enhance meal planning for families.
 
 Summary Video: https://www.youtube.com/watch?v=1YzxBQvZrMI
 
